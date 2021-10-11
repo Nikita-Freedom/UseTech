@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UseTech3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_hint_enter_superhero_name">Enter superhero name</string>
+    <string name="greeting">Hello</string>
+    <string name="nikita_ulyanov">Nikita Ulyanov</string>
+    <string name="let_s_start_searching">Let\'s start searching!</string>
+    <string name="fragment_super_hero_biography_full_name">Full name: </string>
+    <string name="fragment_super_hero_biography_aliases">Aliases: </string>
+    <string name="fragment_super_hero_biography_relatives">Relatives: </string>
+</resources>
